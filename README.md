@@ -9,7 +9,7 @@ Your privacy is important to us, and this Privacy Policy explains how we use you
 
 Data You Provide:
 
-ContactRange accesses your device's contacts to create and manage contacts and contact lists. The app does not upload your contacts to any server or share them with third parties.
+ContactRange accesses your device's contacts to create contacts and contact lists. The app does not upload your contacts to any server or share them with third parties.
 Any custom names for contacts and contact lists entered in the app are stored locally on your device.
 
 Data Collection:
