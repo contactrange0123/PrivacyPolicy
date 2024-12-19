@@ -28,7 +28,7 @@ ContactRange does not share, transmit, or sell your personal data or contacts wi
 Your Choices:
 
 You can grant or revoke permission for ContactRange to access your contacts through your device's settings.
-All contact lists generated within the app can be deleted at any time.
+All contacts and contact lists generated within the app can be deleted at any time.
 
 Changes to This Privacy Policy:
 
