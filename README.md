@@ -25,11 +25,8 @@ Data Sharing:
 
 ContactRange does not share, transmit, or sell your personal data or contacts with any third party. All data is stored locally on your device.
 
-Data Security:
+Your Choices:
 
-We take reasonable measures to protect the information you provide within the app. However, please note that no system can be completely secure, and we cannot guarantee the security of your information.
-
-Your Choices
 You can grant or revoke permission for ContactRange to access your contacts through your device's settings.
 All contact lists generated within the app can be deleted at any time.
 
