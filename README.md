@@ -4,10 +4,10 @@ Effective Date: 12/19/2024
 Welcome to ContactRange! Your privacy is important to us, and this Privacy Policy explains how we collect, use, and share your information when you use our app. By using ContactRange, you agree to the practices described in this policy.
 
 Information We Collect
-1. Data You Provide
+
 Contacts: ContactRange accesses your device's contacts to create and manage custom contact lists. The app does not upload your contacts to any server or share them with third parties.
 Contact List Name: Any custom names for contact lists entered in the app are stored locally on your device.
-2. Automatically Collected Data
+
 The app does not collect or transmit any other data automatically.
 
 How We Use Your Data
