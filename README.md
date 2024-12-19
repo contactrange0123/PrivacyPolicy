@@ -12,7 +12,6 @@ Any custom names for contacts and contact lists entered in the app are stored lo
 
 The app does not collect or transmit any other data automatically.
 
-How We Use Your Data
 To generate and manage contact lists on your device.
 To store information locally for your convenience.
 Data Sharing
