@@ -1,7 +1,7 @@
 # Privacy Policy
 Effective Date: 12/19/2024
 
-Welcome to ContactRange! Your privacy is important to us, and this Privacy Policy explains how we collect, use, and share your information when you use our app. By using ContactRange, you agree to the practices described in this policy.
+Welcome to ContactRange! Your privacy is important to us, and this Privacy Policy explains how we use your information when you use our app. By using ContactRange, you agree to the practices described in this policy.
 
 Information We Collect
 
